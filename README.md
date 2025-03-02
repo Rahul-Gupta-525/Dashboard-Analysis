@@ -1,2 +1,2 @@
 # Dashboard-Analysis
-Scrapping the data from IMDB using selenium and making a dashboard in using PowerBi
+Scraping the data from IMDB using Selenium and making a dashboard using PowerBI
