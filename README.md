@@ -27,6 +27,9 @@ The dataset was scraped from a publicly available movie database called IMDB usi
 
 ---
 
+## Dashboard Preview
+![Dashboard Overview](Dashboard.png)
+
 ## Features of the Dashboard
 
 The Power BI dashboard includes the following visualizations:
