@@ -58,7 +58,7 @@ The Power BI dashboard includes the following visualizations:
 
 ### 1. Data Scraping
 
-The data was scraped using Python. The key steps include:
+The data was scraped using Python from IMDB website. The key steps include:
 
 - Fetching movie details like name, rating, duration, release year, genre, director, and Meta score.
 - Storing the data in a CSV file for further analysis.
